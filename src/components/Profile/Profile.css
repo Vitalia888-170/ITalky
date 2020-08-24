@@ -1,0 +1,30 @@
+.user-date{
+padding:20px 20px;
+padding-top: 30px;
+width: 20%;
+margin-right: 20px;
+background-color: #DCDCDC;
+height: auto;
+overflow: hidden;
+}
+
+.user-inform{
+padding: 10px 10px 0 20px;
+}
+.user-inform h4{
+padding-top: 10px;
+}
+
+.friends-title{
+	font-size: 17px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1.1px;
+	padding-top: 30px;
+}
+.profile-content{
+	display: flex;
+	width:200px;
+	height: auto;
+	
+}

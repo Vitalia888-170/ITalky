@@ -1,0 +1,29 @@
+*,*:before,*after{
+padding: 0;
+border: 0;
+margin:0;
+}
+h1,h2,h3,h4,h5,h6,p{
+margin: 0;
+padding: 0;
+}
+
+.app-wrapper{
+width:1349px;
+}
+
+.content{
+width: 100%;
+}
+.content-image{
+background: url(https://99px.ru/sstorage/53/2014/12/tmb_117358_8811.jpg) no-repeat;
+width: 100%;
+height: 300px;
+background-position:15%;
+background-size: cover;
+}
+
+.information{
+display: flex;
+padding-left: 20px;
+}
